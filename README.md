@@ -1,4 +1,4 @@
-### Olá, eu sou o Bokor 👋
+### Hi, i'm Bokor 👋
 
 <!--
 <div>
